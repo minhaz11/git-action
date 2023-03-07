@@ -17,4 +17,4 @@ jobs:
         server: ftp.geniusocean.net
         username: git@geniusocean.net
         password: 4r6{)N4E7B)=
-        server-dir: geniusocean.net/git/
+        server-dir: /public_html/git/
