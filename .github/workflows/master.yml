@@ -14,7 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        server: ftp.demo.royalscripts.com
-        username: git@demo.royalscripts.com
+        server: ftp.geniusocean.net
+        username: git@geniusocean.net
         password: 6PBC~dak-h]A
-        server-dir: /public_html/custom/git/
+        server-dir: geniusocean.net/git/
